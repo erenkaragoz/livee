@@ -29,7 +29,5 @@
 ![visits](https://komarev.com/ghpvc/?username=erenkaragoz)
 
 # ⚽ Activity
-<p align="center">
-    <img width="75%" src="https://spotify-readme-badge.vercel.app/api/now-playing" />
-    <img width="75%" src="https://lanyard-profile-readme.vercel.app/api/942487996228321340" />
-</p># livee
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/942487996228321340?theme:dark&bg=:#18191d&borderRadius=:10px&animated=:true&hideDiscrim=false&hideStatus=false&hideTimestamp=false&hideBadges=false)](https://discord.com/users/942487996228321340)
